@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import zxcvbn from 'zxcvbn'
 
-export default class PasswordQuality extends React.Component {
+export default class PasswordQualityInput extends React.Component {
   
   constructor(props) {
     super(props);
