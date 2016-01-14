@@ -1,0 +1,32 @@
+{
+  "name": "react-password-quality-input",
+  "version": "0.1.0",
+  "description": "React input component to measure password quality.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orhanmaden/react-password-quality-input.git"
+  },
+  "author": "Orhan Maden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orhanmaden/react-password-quality-input/issues"
+  },
+  "homepage": "https://github.com/orhanmaden/react-password-quality-input#readme",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "reflux": "^0.3.0",
+    "zxcvbn": "^4.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.11",
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13"
+  }
+}
